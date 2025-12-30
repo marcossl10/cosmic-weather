@@ -21,10 +21,10 @@ To install Cosmic Weather:
 
 ```bash
 # Clone the repository
-git clone https://github.com/marcos/cosmic-weather.git
+git clone https://github.com/marcossl10/cosmic-weather.git
 cd cosmic-weather
 
-# Build the project
+# Build the applet
 cargo build --release
 
 # Install the applet
