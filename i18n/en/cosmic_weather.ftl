@@ -1,0 +1,16 @@
+app-title = Weather
+about = About
+view = View
+welcome = Welcome to COSMIC! ✨
+page-id = Page { $num }
+git-description = Git commit {$hash} on {$date}
+example-row = Example Row
+refresh = Refresh
+api-key = API Key
+city = City
+units = Units
+auto-update = Auto Update
+latitude = Latitude
+longitude = Longitude
+latitude-placeholder = Latitude (e.g., 40.7128)
+longitude-placeholder = Longitude (e.g., -74.0060)

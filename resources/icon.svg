@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sunGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#F6D32D"/>
+      <stop offset="100%" stop-color="#F59F00"/>
+    </linearGradient>
+  </defs>
+  <circle cx="64" cy="64" r="40" fill="url(#sunGradient)"/>
+  <circle cx="64" cy="64" r="35" fill="white" opacity="0.3"/>
+</svg>

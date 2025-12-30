@@ -1,0 +1,16 @@
+app-title = Tempo
+about = Sobre
+view = Visualizar
+welcome = Bem-vindo ao COSMIC! ✨
+page-id = Página { $num }
+git-description = Commit {$hash} em {$date}
+example-row = Linha de Exemplo
+refresh = Atualizar
+api-key = Chave de API
+city = Cidade
+units = Unidades
+auto-update = Atualização Automática
+latitude = Latitude
+longitude = Longitude
+latitude-placeholder = Latitude (ex: -29.1629)
+longitude-placeholder = Longitude (ex: -51.1833)

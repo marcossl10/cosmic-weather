@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=Weather
+Comment=Weather applet for COSMIC™
+Type=Application
+Icon=weather-clear-symbolic
+Exec=cosmic-weather %F
+Terminal=false
+StartupNotify=true
+Categories=COSMIC
+Keywords=COSMIC;Weather;
+NoDisplay=true
+X-CosmicApplet=true
+X-CosmicHoverPopup=Auto
+MimeType=
